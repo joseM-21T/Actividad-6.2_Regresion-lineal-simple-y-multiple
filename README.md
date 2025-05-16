@@ -1,0 +1,1 @@
+# Actividad-6.2_Regresion-lineal-simple-y-multiple
